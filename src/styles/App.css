@@ -2,10 +2,12 @@
 .redColor {
     color: red;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
 
 }
 
 .blueColor {
     color: blue;
     font-style: italic;
+    font-size: 40px;
 }
