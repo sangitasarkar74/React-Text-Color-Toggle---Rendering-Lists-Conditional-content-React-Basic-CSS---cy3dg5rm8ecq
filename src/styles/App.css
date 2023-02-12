@@ -1,19 +1,12 @@
 /* code here  */
-.redColor {
+.redColor{
     color: red;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
-
-}
-
-.blueColor {
-    color: blue;
-    font-style: italic;
-    font-size: 40px;
-}
-
-#button {
-    width: 120px;
-    height: 30px;
-    font-size: 15px;
-}
+    font-size: 30px;
+    }
+    
+    .blueColor{
+        color: blue;
+        font-style: italic;
+        font-size: 30px;
+    
+    }
